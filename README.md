@@ -1,2 +1,2 @@
 # kashif-general
-General stuff 
+Hello I'm getting started with GitHub!
