@@ -1,6 +1,7 @@
 install.packages("rvest")
 library(rvest)
 library(dplyr)
+?dplyr
 
 ? read_html
 flights <- read_html('https://en.wikipedia.org/wiki/Non-stop_flight') %>% 
